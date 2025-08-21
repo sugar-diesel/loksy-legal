@@ -9,8 +9,8 @@ This repository hosts the legal documents for the **Loksy** app. It exists to sa
   (Optional GitHub Pages URL if enabled: `https://sugar-diesel.github.io/loksy-legal/privacy-policy`)
 
 - **Terms & Conditions**  
-  File: [`terms.md`](./terms-and-conditions.md)  
-  (Optional GitHub Pages URL if enabled: `https://sugar-diesel.github.io/loksy-legal/terms`)
+  File: [`terms-and-conditions.md`](./terms-and-conditions.md)  
+  (Optional GitHub Pages URL if enabled: `https://github.com/sugar-diesel/loksy-legal/blob/main/terms-and-conditions.md`)
 
 Both documents should remain publicly accessible at stable URLs during App Store review.
 
